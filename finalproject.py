@@ -192,6 +192,9 @@ st.markdown("The polynomial regression section of my project was taken from http
 st.markdown("The Altair interaction was taken from https://christopherdavisuci.github.io/UCI-Math-10/Week3/First-Altair-examples.html#spotify-interactive")
 st.markdown("The bar graph was taken from https://christopherdavisuci.github.io/UCI-Math-10/Week3/First-Altair-examples.html")
 st.markdown("The neural network section of my project was taken from https://christopherdavisuci.github.io/UCI-Math-10/Week10/overfitting.html")
+st.markdown("The seaborn boxplot was from https://seaborn.pydata.org/generated/seaborn.boxplot.html")
+st.markdown("My tick chart was taken from https://altair-viz.github.io/gallery/layered_chart_bar_mark.html")
+st.markdown("My sidebar code was referenced from https://christopherdavisuci.github.io/UCI-Math-10/Proj/ExtraTopics.html")
 
 with st.sidebar:
     st.title("Studying Pokemon and Their Characteristics.")
