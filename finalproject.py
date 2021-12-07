@@ -16,6 +16,8 @@ from tensorflow import keras
 st.title("Studying Pokemon and Their Characteristics")
 
 st.markdown("The dataset I will use for this project comes from https://gist.github.com/armgilles/194bcff35001e7eb53a2a8b441e8b2c6")
+st.markdown("My github link is https://github.com/lilyannday/finalproject")
+
 uploaded_file = st.file_uploader("file upload",['csv'])
 
 st.header("Finding the General Trend for Attack and Defense of a Pokemon")
